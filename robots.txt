@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mhassan-dev13.github.io/fury-sales/sitemap.xml
